@@ -10,9 +10,14 @@
       </SelectionState>
       <SelectionState runConfigName="RetrofitByPhilipp">
         <option name="selectionMode" value="DROPDOWN" />
+        <DialogSelection />
       </SelectionState>
       <SelectionState runConfigName="RetrofitByAndroidKnowledge">
         <option name="selectionMode" value="DROPDOWN" />
+      </SelectionState>
+      <SelectionState runConfigName="RetrofitByCheezyCode">
+        <option name="selectionMode" value="DROPDOWN" />
+        <DialogSelection />
       </SelectionState>
     </selectionStates>
   </component>
